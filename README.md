@@ -8,4 +8,4 @@
 
 ## Libraries: math, numpy
 
-https://github.com/Daniel-Aguila/Randomized_Hill_Climbing/blob/master/scatterPlot((-2%2C3)%2C100%2C0.03%2C5).JPG
+![altext](https://github.com/Daniel-Aguila/Randomized_Hill_Climbing/blob/master/scatterPlot((-2%2C3)%2C100%2C0.03%2C5).JPG)
