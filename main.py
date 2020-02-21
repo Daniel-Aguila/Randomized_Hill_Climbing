@@ -38,7 +38,7 @@ def main():
     p = 100  # TODO understand if this is the range of the iterations in total, or does it reset every time?
     z = 0.03 # Radius of vision from the starting point
 
-    RHC(sp, p, z, seed)
+    print(RHC(sp, p, z, seed))
     return
 
 
