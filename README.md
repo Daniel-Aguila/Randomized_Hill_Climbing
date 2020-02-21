@@ -8,7 +8,7 @@
 
 ## Libraries: math, numpy
 
-###For this graph the parameters were:
+### For this graph the parameters were:
 * seed = 5
 * starting_point = (-2,3)
 * p-neighbors = 100
