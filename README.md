@@ -6,7 +6,7 @@
 
 ## Language: Python
 
-## Libraries: math, numpy
+## Libraries: math, numpy, matplotlib
 
 ### For this graph the parameters were:
 * seed = 5
